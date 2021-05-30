@@ -1,0 +1,22 @@
+{
+  "name": "percy-onboarding-test",
+  "version": "1.0.0",
+  "description": "Percy assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwingonsalves/percy-onboarding-test.git"
+  },
+  "author": "Ashwin G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwingonsalves/percy-onboarding-test/issues"
+  },
+  "homepage": "https://github.com/ashwingonsalves/percy-onboarding-test#readme",
+  "devDependencies": {
+    "@wdio/cli": "^7.6.1"
+  }
+}
