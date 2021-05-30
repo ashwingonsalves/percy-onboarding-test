@@ -4,7 +4,8 @@
   "description": "Percy assignment",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "wdio:run": "wdio wdio.conf.js",
+    "wdio:percy": "npx percy exec -- wdio wdio.conf.js"
   },
   "repository": {
     "type": "git",
